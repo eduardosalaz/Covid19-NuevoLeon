@@ -17,3 +17,4 @@ Sé que existe un repositorio de datos a nivel federal pero éste solo maneja lo
 
 ## TODO:
 - [x] Error en los casos confirmados del 06/23
+- [ ] Error en los casos examinados del 06/07 y 07/28
