@@ -1,5 +1,5 @@
 # Covid19-NuevoLeon
-Datos en csv recolectados de las imágenes diarias publicadas por la Secretaría de Salud del Estado de Nuevo León, del 1 de Mayo al 22 de Julio, incluyen pruebas realizadas por Laboratorio Privado, Hospital Privado o el INDRE.
+Datos en csv recolectados de las imágenes diarias publicadas por la Secretaría de Salud del Estado de Nuevo León, del 1 de Mayo al 22 de Julio, incluye pruebas realizadas por Laboratorio Privado, Hospital Privado o el INDRE.
 
 ## Contenido
 | Nombre de la tabla | Descripción                                             |
