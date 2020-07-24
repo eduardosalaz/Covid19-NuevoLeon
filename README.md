@@ -13,3 +13,7 @@ Sé que existe un repositorio de datos a nivel federal pero éste solo maneja lo
 | municipios.csv     | Contiene los casos acumulados diarios de cada municipio |
 | negYsos.csv        | Contiene las pruebas negativas y sospechosos            |
 | totales.csv        | Contiene las pruebas totales                            |
+
+
+## TODO:
+[ ] - Error en los casos confirmados del 06/23
