@@ -16,4 +16,4 @@ Sé que existe un repositorio de datos a nivel federal pero éste solo maneja lo
 
 
 ## TODO:
-- [ ] Error en los casos confirmados del 06/23
+- [x] Error en los casos confirmados del 06/23
