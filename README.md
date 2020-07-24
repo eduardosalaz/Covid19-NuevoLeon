@@ -3,7 +3,7 @@ Datos en csv recolectados de las imágenes diarias publicadas por la Secretaría
 
 Las imágenes diarias fueron webscrapeadas de las cuentas de [Facebook](https://www.facebook.com/SecretariaSaludNL/photos/?ref=page_internal) y [Twitter](https://twitter.com/NlSalud/media), con todo el gusto del mundo puedo pasar esas imágenes también para verificar la integridad de los datos.
 
-Sé que existe un repositorio de datos a nivel federal pero este solo maneja los datos del INDRE.
+Sé que existe un repositorio de datos a nivel federal pero éste solo maneja los datos del INDRE.
 
 ## Contenido
 | Nombre de la tabla | Descripción                                             |
