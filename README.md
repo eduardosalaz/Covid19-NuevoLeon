@@ -19,3 +19,4 @@ Sé que existe un repositorio de datos a nivel federal pero éste solo maneja lo
 - [x] Error en los casos confirmados del 06/23
 - [x] Error en los casos examinados del 06/07 y 07/28
 - [ ] Error en los casos de Cadereyta 04/24
+- [ ] Confirmados del 04/12 se ve mal
